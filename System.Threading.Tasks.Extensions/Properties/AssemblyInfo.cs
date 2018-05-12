@@ -7,11 +7,11 @@ using Android.App;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("System.Threading.Tasks.Extensions")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("To fix https://github.com/xamarin/xamarin-android/issues/1676")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("yinyue200.com")]
 [assembly: AssemblyProduct("System.Threading.Tasks.Extensions")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright © yinyue200.com 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
